@@ -1,0 +1,27 @@
+.dely-primary{background-color:#FF3D00;color:#ffffff;}
+.dely-theme{background-color:#FF5722}
+.dely-padding{padding-left: 300px}
+.dely-heading{padding-top: 50px}
+.dely-footer{padding-bottom: 50px}
+.dely-sidebar{height:100%;width:300px;position:fixed;}
+.dely-text{color:#FF5722}
+.dely-center{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin-top: -100px; 
+    margin-left: -200px; 
+}
+
+
+
+<color name="colorPrimary">#FF5722</color>
+<color name="colorPrimaryDark">#000000</color>
+<color name="colorAccent">#FF3D00</color>
+<color name="white">#ffffff</color>
+<color name="blackshade">#313538</color>
+<color name="blackhex">#50313538</color>
+<color name="whiteshade">#f9f9f9</color>
+<color name="orangeshade">#ff721e</color>
+<color name="orangehex">#50FF3D00</color>
+<color name="golden">#FFD700</color>
